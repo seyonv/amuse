@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Amuse</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_step1">Step1</string>
+    <string name="title_activity_step2">Step2</string>
+    <string name="title_activity_step3">Step3</string>
+    <string name="title_activity_step4">Step4</string>
+    <string name="title_activity_step5">Step5</string>
+    <string name="title_activity_step6">Step6</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="connect">Connect</string>
+    <string name="status">Connection Status:</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="refresh">Refresh</string>
+    <string name="init_val">0.0</string>
+    <string name="eeg">EEG data:</string>
+    <string name="accel">Accelerometer Data:</string>
+    <string name="version">Version:</string>
+    <string name="undefined">unknown</string>
+    <string name="artifacts">Blinks, Jaw: </string>
+    <string name="msg_count">Msg number, size: </string>
+    <string name="pause">Pause/Resume</string>
+    <string name="drop">Drop</string>
+    <string name="muse_elem">Elements:</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="begin_button">Begin!</string>
+    <string name="splash_text">Brain Checker</string>
+    <string name="title_activity_home_screen">Brain Checker</string>
+    <string name="title_activity_step7">step7</string>
+</resources>
